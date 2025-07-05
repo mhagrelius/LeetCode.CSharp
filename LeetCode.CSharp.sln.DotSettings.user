@@ -3,5 +3,6 @@
   &lt;TestAncestor&gt;
     &lt;TestId&gt;xUnit::A34CA9DF-DC17-4DE4-A26B-98E8D72E05A4::net9.0::LeetCode.CSharp.Tests.Problems.Question1Tests.Test&lt;/TestId&gt;
     &lt;TestId&gt;xUnit::A34CA9DF-DC17-4DE4-A26B-98E8D72E05A4::net9.0::LeetCode.CSharp.Tests.Problems.Question1Tests.TestFaster&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::A34CA9DF-DC17-4DE4-A26B-98E8D72E05A4::net9.0::LeetCode.CSharp.Tests.Problems.Question2Tests.Test&lt;/TestId&gt;
   &lt;/TestAncestor&gt;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
